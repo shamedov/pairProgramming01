@@ -1,0 +1,123 @@
+html body{
+	margin:0;
+	padding: 0;
+
+}
+.main{
+	
+    width: 80%;
+	border:1px solid black;
+	margin:0 auto;
+
+}
+.ustmenu{
+	background: blue;
+	height: 50px;
+}
+.ustmenu h1{
+	position: relative;
+    bottom: 32px;
+
+}
+.ustmenu ul{
+	margin-left: 500px;
+}
+.ustmenu ul li{
+display:inline;
+padding-left:30px;
+color:white;
+}
+
+
+.div2{
+	height: 200px;
+	background:url("home-slider-1.jpg") center ;
+}
+.white{
+	color:white;
+}
+.back{
+	
+	text-align: center;
+
+}
+/****3div****/
+.div3{
+	margin-top: 20px;
+}
+.ruki img{
+	float:left;
+	padding-left: 32px;
+	width:400px;
+}
+.ruki p,h1{
+	float:left;
+	width: 544px;
+    padding-left: 40px;
+}
+/***4***/
+.div4{
+	width:91%;
+    height: 300px;
+    margin-top: 394px;
+	margin-left: 30px;
+}
+
+.mnogo{
+    width: 23%;
+    height: 298px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 16px;
+    text-align: center;
+    background: #60a0df;
+}
+.mnogo img{
+	width: 50px;
+}
+.mnogo a{
+	padding:10px;
+	background: blue;
+	color:white;
+	text-decoration: none;
+}
+/****5****/
+.div5{
+	width:91%;
+    height: 300px;
+    margin: 32px
+}
+.malo{
+	width: 23%;
+    height: 298px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 16px;
+    text-align: center;
+    background: #60a0df;
+}
+.malo img{
+	width:100%;
+}
+/****6****/
+
+.footer{
+	height: 300px;
+	width: 100%;
+	background: blue;
+	border:1px solid black;
+
+}
+.infooter
+{
+	width: 30%;
+	float: left;
+	color:white;
+}
+.footer div:nth-child(3){
+	margin-top: 102px;
+    margin-left: 57px;
+}
+.infooter input{
+	padding: 9px;
+}
